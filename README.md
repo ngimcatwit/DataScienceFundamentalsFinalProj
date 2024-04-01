@@ -1,5 +1,5 @@
 # Formula One Analysis by Kevin Ngim
-Formula One is an ever growing sport as the popular Netflix series [Drive to Survive](https://www.netflix.com/title/80204890) more and more people are getting into it,I would like to take this opportunity to analyze the correlation between teams, drivers and tracks. 
+Formula One is an ever growing sport as the popular Netflix series [Drive to Survive](https://www.netflix.com/title/80204890) is a big hit and with the introduction of more races in [North America](https://www.redbull.com/us-en/f1-races-hosted-us-tracks) more and more people are getting into it, I would like to take this opportunity to analyze the correlation between teams, drivers and tracks from the past 5 season from 2018.  
 ## Questions That will be asked
 What are the gap analysis between drivers, teammates and teams? 
 
