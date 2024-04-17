@@ -25,10 +25,21 @@ Question 4: How do track characteristics influence race outcomes?
 
 Question 5: What are the patterns in points allocation over the years?
 
-## Results
+## Results and Discussion
 Question 1: We took a look over the performance of the teams that has evolved over the season although some of the teams went through rebranding we can also see that there is three teams that has remained the not rebranded over the course of the five years that is analyzed, it was Ferrari and Mercedes and Williams
-![data screenshot](./graph/question1.png)
-## Discussion
+![data screenshot](./graphs/question1.png)
+
+Question 2: We took a look at the driveres that shown the msot consistency in their race position, as the standard deviation is lower it means they are more consistent as their finishing position is closest to their starting position, this however can be an outlier as some drivers may have issues in qualifying and have a lower starting position but finish higher by the end of the race.
+![data screenshot](./graphs/question2.png)
+
+Question 3: In correlation to the previous question we will take a look into the more specific position of where the drivers qualify for has the highest impact. We can see that drivers who start at the top 10 position have to post impact since points are only allocated to the top 10.
+![data screenshot](./graphs/question3.png)
+
+Question 4: Taking a look at track characteristics and points distribution most of the track have normal readings as points are consistent through the five years of regulation however, during the Belgium Grand Prix there is weather issue where the race had to be ended early therefore there is an outlier. 
+![data screenshot](./graphs/question4.png)
+
+Question 5: Taking a look at the patterns of points of the teams over the years we can conclude that there is three types of teams, the top teams, the mid-fielders and the bottom teams. We can see the top teams, Ferrari, Mercedes and Redbull are always consistent while mid-field teams have fluctuation in their points distribution and bottom means are consistent as well but in the sense of not score points.
+![data screenshot](./graphs/question5.png)
 
 ## Coding
 Here I will put all my .ipynb files which will consit of the codes used for reading and manipulating the CSV datas.
