@@ -25,11 +25,9 @@ Question 4: How do track characteristics influence race outcomes?
 
 Question 5: What are the patterns in points allocation over the years?
 
-
-
-How long did it take from their rookie season to win their first race/first championship?
 ## Results
-Question 1:
+Question 1: We took a look over the performance of the teams that has evolved over the season although some of the teams went through rebranding we can also see that there is three teams that has remained the not rebranded over the course of the five years that is analyzed, it was Ferrari and Mercedes and Williams
+![data screenshot](./graph/question1.png)
 ## Discussion
 
 ## Coding
