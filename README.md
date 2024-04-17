@@ -40,7 +40,8 @@ Question 4: Taking a look at track characteristics and points distribution most 
 
 Question 5: Taking a look at the patterns of points of the teams over the years we can conclude that there is three types of teams, the top teams, the mid-fielders and the bottom teams. We can see the top teams, Ferrari, Mercedes and Redbull are always consistent while mid-field teams have fluctuation in their points distribution and bottom means are consistent as well but in the sense of not score points.
 ![data screenshot](./graphs/question5.png)
-
+## Summary
+We can see that Formula 1 is an evergrowing sport, with the organization holding more and more races every years expanding all over the globe as well as the constant rebranding with the influx of sponsors. In regards the the data, we can see the classified teams of top, midfield and bottom are performing as classified as well as the driver's shift in teams.
 ## Coding
 Here I will put all my .ipynb files which will consit of the codes used for reading and manipulating the CSV datas.
 ## References
